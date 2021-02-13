@@ -1,0 +1,15 @@
+Bize destek olmak için;
+
+Yakında
+
+_______________________________________________________________________________________________
+
+
+Dlovys Bot'u sunucuna eklemek için;
+
+https://discord.com/api/oauth2/authorize?client_id=756177477314936892&permissions=2147483639&scope=bot
+
+_______________________________________________________________________________________________
+
+
+Websitemizi ziyaret edebilirsiniz;
